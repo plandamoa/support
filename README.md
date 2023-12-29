@@ -8,4 +8,8 @@
 ![02-2  option-구독-f](https://github.com/plandamoa/support/assets/52882799/f0c0a098-38ef-4424-b4a4-1bc5c8093baa)
 
 
+개발팀 PLDA
+Developer 이영학 (yeonghak9905@gmail.com)
+
+
 Copyright © PLDA team. All rights reserved.
